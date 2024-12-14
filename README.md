@@ -1,3 +1,3 @@
-# Fetch API - GET and POST HTTP Requests
+# Fetch API
 
-This project demonstrates the use of the Fetch API to make HTTP requests
+This repository contains various examples demonstrating how to use the Fetch API to make http request in JavaScript.
